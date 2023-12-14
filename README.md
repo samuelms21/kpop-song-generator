@@ -4,6 +4,6 @@ An attempt to generate kpop style music with the pre-trained model, MusicGen (mu
 <br>
 
 Ideated, researched, and partly implemented by:
-- Audrey Josephine (202000249)
+- [Audrey Josephine](https://github.com/dreysjo/) (202000249)
 - [Jessica Ong](https://github.com/chuuyazai17) (202000204)
 - [Samuel Marcellino](https://github.com/samuelms21) (202000202) 
